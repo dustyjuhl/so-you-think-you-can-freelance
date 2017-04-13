@@ -133,3 +133,28 @@ The uTest Sandbox 101 is a program that provides newly registered (or currently 
 Step 3: Further Sharpen Your Skills
 
 uTest provides free [Courses](https://www.utest.com/courses). Taking these courses will ensure that you are primed for success when you begin to take on paid projects.
+
+## [Test Cycle Types](https://www.utest.com/courses/skill-tree)
+uTest offers several types of testing projects to appeal to many types of software testers.
+
+There’s a section of your profile titled "Testing Settings" where you need to select at least one testing type (outlined below), and a section titled "Hardware & Software" where you must select at least one app type (Mobile, Web, etc). To match you with the best opportunities you are encouraged to select only the testing types you are familiar with or have had some experience in.
+
+- Crowd Sourced Community Test Cycles:
+  - Functional: Exploratory testing and test case completion
+  - Usability: Survey completion
+  - Localization: Translation validation and localization testing
+
+- Expert Sourced Community Test Cycles:
+  - Automation: Automated test script creation
+  - Usability: Usability audits, survey creation, survey analysis and expert review
+  - Security: Manual penetration and dynamic security testing
+  - Load and Performance: Script creation and expert review
+
+## [Tester Ratings](https://www.utest.com/courses/utest-tester-ratings)
+How am I rated as a tester?
+
+All testers are rated against other active members of the community based on their quality and activity level (tester rating calculations are performed on a daily basis). There are a total of five tiers for the rated tester: Gold, Silver, Bronze, Proven, and Rated tier (if you do not have a badge, this simply means that you have not filed enough "activity" points). Testers can be Gold in Functional testing, and be lower or even unrated in other testing types.
+
+Gold/Silver/Bronze testers receive higher payout rates than other members of the testing community: Gold testers receive a 10% premium on all approved reports, while Silver and Bronze testers receive a 5% and 2.5% premium, respectively. Payout increases are determined by the rating that applies to the test cycle's testing type.
+
+![Tester Ratings](uTest/Tester Ratings.jpg)
