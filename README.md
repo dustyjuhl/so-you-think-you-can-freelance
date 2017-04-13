@@ -2,6 +2,8 @@
 
 ![Home Office](floatmonitors_picture.jpg)
 
+[Presentation Slides](https://slides.com/ryandoll/troubleshoot-like-a-boss)
+
 ## Overview
 
 You’ve likely seen the listings of “Work from Home” jobs or heard or read tips from people about how easy it is to work as a freelancer. Did you know there are freelance testing jobs as well?
@@ -18,8 +20,6 @@ You can find Dusty online.
 - [GitHub](https://www.github.com/dustyjuhl)
 - [LinkedIn](https://www.linkedin.com/in/dustyjuhl)
 - [Twitter](https://twitter.com/DustyJuhl)
-
-[Presentation Slides](https://slides.com/ryandoll/troubleshoot-like-a-boss)
 
 ## Why Freelancing?
 - Earn extra income
@@ -80,6 +80,58 @@ What is a uTest Lite profile?
 
 - A uTest Lite profile gives you access to site features on uTest.com. It means you can:
   - Comment on blog posts
-  - Rate and review uTest University courses
+  - Rate and review [uTest University](https://www.utest.com/courses) courses
   - Rate and review tools
   - Read and participate in the forums
+
+## uTest Full user
+- Full user signup
+  - Step 1
+    - Account Information
+  - Step 2 –
+    - Hardware & Software –
+      - WEB AND DESKTOP
+        - Operating System
+        - Operating System Version
+        - Operation System Language
+        - Firewall
+        - Antivirus
+        - Antispyware
+        - Browsers
+        - Accessories
+        - Headset
+        - Microphone
+        - Speakers
+        - Webcam
+      - MOBILE AND TABLET
+        - Add Devices
+          - Handset Manufacturer
+          - Handset Model
+          - Handset Operation System
+          - Wireless Carrier
+      - SMART TV AND OTHER
+        - Categories
+          - Smart TVs
+          - Gaming Consoles
+          - Wearables
+          - Smart Blu-Ray Players
+          - Set Top Boxes
+          - Home Appliances
+          - Autos
+          - TV Provider
+
+## [How to Get Started](https://www.utest.com/earning-money)
+Step 1: Complete a Full uTest Profile
+
+We match projects to those testers who meet the specific customer criteria. By keeping your profile up-to-date, you increase the likelihood of getting invited to paid projects.
+
+Step 2: Show us Your Skills
+
+uTest invites testers to an audition -- called the uTest Sandbox -- so they can see how projects work, understand the uTest platform, and show off their skills.
+
+Sandbox 101
+The uTest Sandbox 101 is a program that provides newly registered (or currently unrated) uTesters with the opportunity to evaluate uTest, and likewise an opportunity for uTest to evaluate new uTesters. This involves participating in an unpaid “audition” test cycle that closely mimics a regular, paid uTest test cycle.
+
+Step 3: Further Sharpen Your Skills
+
+We provide free Courses. Taking these courses will ensure that you are primed for success when you begin to take on paid projects.
