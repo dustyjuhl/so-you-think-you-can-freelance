@@ -2,8 +2,15 @@
 
 ![Home Office](floatmonitors_picture.jpg)
 
-Nobody's code is perfect, and all browsers don't run that code the exact same way. A developer can be staring at the weirdest issue ever with no clue where to begin troubleshooting. Sometimes, searching Stack Overflow for related issues can feel like an exercise in futility. A developer's mettle can be tested when this happens, so having the right tools and the proper mindset can mean the difference between a five minute fix, and an all-nighter. This repo will serve as a great place for storing tips for troubleshooting, list some great tools, as well as be reference point for new devs who are trying to level up their trouble shooting skill.  Please feel free to submit a PR for any extra tools or tips you think should be added to the list.
+Overview
 
+You’ve likely seen the listings of “Work from Home” jobs or heard or read tips from people about how easy it is to work as a freelancer. Did you know there are freelance testing jobs as well?
+
+In this talk, we’ll learn about tips for becoming a successful freelancer, the different websites where you can become a freelance tester, how to build/establish your reputation as a tester, and most importantly, how to make money as a freelance tester.
+
+Speaker Bio
+
+Dusty Juhl is a QA professional with over 13 years of IT experience. He is a Certified Scrum Master (CSM), a Certified Software Tester (CSTE), and he’s currently the Vice President / Treasurer of the Des Moines Area Quality Assurance Association (DAQAA). He’s an active member of a number of user groups in the local community. When he’s not crushing bugs, he’s cheering on his 2016 World Series Champion Chicago Cubs or willing the Dallas Cowboys onto another Super Bowl title.
 
 [Presentation Slides](https://slides.com/ryandoll/troubleshoot-like-a-boss)
 
@@ -40,14 +47,11 @@ Source: http://www.inc.com/jordan-kasteler/7-freelance-habits-you-should-develop
 4. Take Some Risks: Take on daunting projects. Challenge yourself to learn new things. If you don't go out there and try new things, your career will become stagnant.
 
 5. Have Something Fun to Do: Whether a project for a client or one that you accomplish in your spare time, make sure you're doing something fun. This will help you keep your perspective, remind you why you started, and help you relax even when you're working.
-
 Especially when beginning, freelancers can get caught up doing the same type of projects over and over. Not only is this damaging for a new portfolio, it's also boring and repetitive.
 Repetitive jobs become harder to do--just because it's harder to keep focused on them. Make sure to (at least occasionally) take a job that sounds like fun.
 
 6. Don’t Forget Why You Started: Don't forget that you started freelancing not because you had no choice, but because you love it.
-
 In the business that develops, never forget your passion. If you do, it'll be worse than neglecting every other piece of advice out there.
-
 No spark reflects in your work. If you lose your passion and love for your craft, not only will it be hard for you to continue to motivate yourself, but you'll start to put out lower quality work. This can be disastrous--so make sure you take time to remind yourself of your love for your work.
 
 ## Freelance Testing
@@ -56,7 +60,7 @@ No spark reflects in your work. If you lose your passion and love for your craft
 - Ubertesters – https://ubertesters.com/
 - TestFairy - https://testfairy.com/
 
-## utest
+## uTest
 - Based in Framingham, MA
 - 250,000+ testers
 - Two options:
