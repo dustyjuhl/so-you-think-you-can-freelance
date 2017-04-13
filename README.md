@@ -10,7 +10,7 @@ In this talk, we’ll learn about tips for becoming a successful freelancer, the
 
 ## Speaker
 
-Dusty Juhl is a QA professional with over 13 years of IT experience. He is a [Certified Scrum Master] (https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm) (CSM), a [Certified Software Tester](http://www.softwarecertifications.org/cste/) (CSTE), and he’s currently the Vice President / Treasurer of the [Des Moines Area Quality Assurance Association](http://www.daqaa.com_) (DAQAA). He’s an active member of a number of user groups in the local community. When he’s not crushing bugs, he’s cheering on his 2016 World Series Champion [Chicago Cubs](https://www.mlb.com/cubs) or willing the [Dallas Cowboys](http://www.dallascowboys.com/) onto another Super Bowl title.
+Dusty Juhl is a QA professional with over 13 years of IT experience. He is a [Certified Scrum Master](https://www.scrumalliance.org/certifications/practitioners/certified-scrummaster-csm) (CSM), a [Certified Software Tester](http://www.softwarecertifications.org/cste/) (CSTE), and he’s currently the Vice President / Treasurer of the [Des Moines Area Quality Assurance Association](http://www.daqaa.com_) (DAQAA). He’s an active member of a number of user groups in the local community. When he’s not crushing bugs, he’s cheering on his 2016 World Series Champion [Chicago Cubs](https://www.mlb.com/cubs) or willing the [Dallas Cowboys](http://www.dallascowboys.com/) onto another Super Bowl title.
 
 You can find Dusty online.
 - [Email](mailto:dustyjuhl@gmail.com)
