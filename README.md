@@ -1,2 +1,2 @@
 # so-you-think-you-can-freelance
-So You Think You Can Freelance presentation repo
+Notes and files for my presentation "So You Think You Can Freelance"
