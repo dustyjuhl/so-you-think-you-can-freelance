@@ -2,15 +2,20 @@
 
 ![Home Office](floatmonitors_picture.jpg)
 
-Overview
+## Overview
 
 You’ve likely seen the listings of “Work from Home” jobs or heard or read tips from people about how easy it is to work as a freelancer. Did you know there are freelance testing jobs as well?
 
 In this talk, we’ll learn about tips for becoming a successful freelancer, the different websites where you can become a freelance tester, how to build/establish your reputation as a tester, and most importantly, how to make money as a freelance tester.
 
-Speaker Bio
+## Speaker
 
-Dusty Juhl is a QA professional with over 13 years of IT experience. He is a Certified Scrum Master (CSM), a Certified Software Tester (CSTE), and he’s currently the Vice President / Treasurer of the Des Moines Area Quality Assurance Association (DAQAA). He’s an active member of a number of user groups in the local community. When he’s not crushing bugs, he’s cheering on his 2016 World Series Champion Chicago Cubs or willing the Dallas Cowboys onto another Super Bowl title.
+Dusty Juhl is a QA professional with over 13 years of IT experience. He is a Certified Scrum Master (CSM), a Certified Software Tester (CSTE), and he’s currently the Vice President / Treasurer of the [Des Moines Area Quality Assurance Association](http://www.daqaa.com_) (DAQAA). He’s an active member of a number of user groups in the local community. When he’s not crushing bugs, he’s cheering on his 2016 World Series Champion Chicago Cubs or willing the Dallas Cowboys onto another Super Bowl title.
+
+You can find Dusty online.
+- [GitHub](https://www.github.com/dustyjuhl)
+- [LinkedIn](https://www.linkedin.com/in/dustyjuhl)
+- [Twitter](https://twitter.com/DustyJuhl)
 
 [Presentation Slides](https://slides.com/ryandoll/troubleshoot-like-a-boss)
 
