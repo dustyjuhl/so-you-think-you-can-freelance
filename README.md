@@ -86,44 +86,42 @@ What is a uTest Lite profile?
 
 ## uTest Full user
 - Full user signup
-  - Step 1
-    - Account Information
-  - Step 2 –
-    - Hardware & Software –
-      - WEB AND DESKTOP
-        - Operating System
-        - Operating System Version
-        - Operation System Language
-        - Firewall
-        - Antivirus
-        - Antispyware
-        - Browsers
-        - Accessories
-        - Headset
-        - Microphone
-        - Speakers
-        - Webcam
-      - MOBILE AND TABLET
-        - Add Devices
-          - Handset Manufacturer
-          - Handset Model
-          - Handset Operation System
-          - Wireless Carrier
-      - SMART TV AND OTHER
-        - Categories
-          - Smart TVs
-          - Gaming Consoles
-          - Wearables
-          - Smart Blu-Ray Players
-          - Set Top Boxes
-          - Home Appliances
-          - Autos
-          - TV Provider
+  - Step 1 - Account Information
+  - Step 2 - Hardware & Software
+    - WEB AND DESKTOP
+      - Operating System
+      - Operating System Version
+      - Operation System Language
+      - Firewall
+      - Antivirus
+      - Antispyware
+      - Browsers
+      - Accessories
+      - Headset
+      - Microphone
+      - Speakers
+      - Webcam
+    - MOBILE AND TABLET
+      - Add Devices
+        - Handset Manufacturer
+        - Handset Model
+        - Handset Operation System
+        - Wireless Carrier
+    - SMART TV AND OTHER
+      - Categories
+        - Smart TVs
+        - Gaming Consoles
+        - Wearables
+        - Smart Blu-Ray Players
+        - Set Top Boxes
+        - Home Appliances
+        - Autos
+        - TV Provider
 
 ## [How to Get Started](https://www.utest.com/earning-money)
 Step 1: Complete a Full uTest Profile
 
-We match projects to those testers who meet the specific customer criteria. By keeping your profile up-to-date, you increase the likelihood of getting invited to paid projects.
+uTest matches projects to those testers who meet the specific customer criteria. By keeping your profile up-to-date, you increase the likelihood of getting invited to paid projects.
 
 Step 2: Show us Your Skills
 
@@ -134,4 +132,4 @@ The uTest Sandbox 101 is a program that provides newly registered (or currently 
 
 Step 3: Further Sharpen Your Skills
 
-We provide free Courses. Taking these courses will ensure that you are primed for success when you begin to take on paid projects.
+uTest provides free [Courses](https://www.utest.com/courses). Taking these courses will ensure that you are primed for success when you begin to take on paid projects.
