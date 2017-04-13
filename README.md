@@ -157,4 +157,4 @@ All testers are rated against other active members of the community based on the
 
 Gold/Silver/Bronze testers receive higher payout rates than other members of the testing community: Gold testers receive a 10% premium on all approved reports, while Silver and Bronze testers receive a 5% and 2.5% premium, respectively. Payout increases are determined by the rating that applies to the test cycle's testing type.
 
-![Tester Ratings](uTest/Tester Ratings.jpg)
+![Tester Ratings](Tester Ratings.jpg)
