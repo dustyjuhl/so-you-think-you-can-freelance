@@ -36,22 +36,6 @@ You can find Dusty online.
   - Work at your own pace
   - Work wherever you want—home office, kitchen table, coffee shop, or from your own bed
 
-## Earn Extra Income
-- You can earn up to $500 before having to report it to the IRS
-- As you gain experience and build your reputation, you can earn more money.
-- You can earn up to $35/hr. on some sites.
-- Some freelance sites offer the opportunity to become employees.
-
-## Gain Additional Experience
-- Work on fun projects
-- Work for major brand name companies
-- Learn new things
-
-## Be Your Own Boss
-- Set your own schedule
-- Work at your own pace
-- Work wherever you want—home office, kitchen table, coffee shop, or from your own bed
-
 ## Tips for Being Successful
 Source: http://www.inc.com/jordan-kasteler/7-freelance-habits-you-should-develop-before-quitting-your-day-job.html
 
@@ -77,7 +61,7 @@ No spark reflects in your work. If you lose your passion and love for your craft
 - Ubertesters – https://ubertesters.com/
 - TestFairy - https://testfairy.com/
 
-## uTest
+## [uTest](https://www.utest.com/)
 - Based in Framingham, MA
 - 250,000+ testers
 - Two options:
