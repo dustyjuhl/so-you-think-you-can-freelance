@@ -23,8 +23,18 @@ You can find Dusty online.
 
 ## Why Freelancing?
 - Earn extra income
+  - You can earn up to $500 before having to report it to the IRS
+  - As you gain experience and build your reputation, you can earn more money.
+  - You can earn up to $35/hr. on some sites.
+  - Some freelance sites offer the opportunity to become employees.
 - Gain additional experience
+  - Work on fun projects
+  - Work for major brand name companies
+  - Learn new things
 - Be your own boss
+  - Set your own schedule
+  - Work at your own pace
+  - Work wherever you want—home office, kitchen table, coffee shop, or from your own bed
 
 ## Earn Extra Income
 - You can earn up to $500 before having to report it to the IRS
