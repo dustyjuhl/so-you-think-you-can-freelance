@@ -197,11 +197,13 @@ Testing shouldn’t be based off of the number of bugs you catch. What matters i
 - How do I get paid?
 - Do you care what tools we use?
 - What is my tester rating based on?
+
   Your tester rating is based on four factors:
     - Bug depth: How critical were the bugs you reported?
     - Timeliness: Did you submit the bugs on time?
     - Ability to follow directions: Were the bugs you submitted in the scope of the test cycle?
     - Report Quality: How clean and readable was your bug report? Could a five-year old reproduce the bug?
+
   After the test cycle is over a Test Lead will rate you on these four areas. The higher your score is, the better your chances of being invited to more test cycles.
 
 ## Tester Benefits
