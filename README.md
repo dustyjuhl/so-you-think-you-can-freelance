@@ -122,7 +122,7 @@ Step 2: Show us Your Skills
 
 uTest invites testers to an audition -- called the uTest Sandbox -- so they can see how projects work, understand the uTest platform, and show off their skills.
 
-Sandbox 101 - 
+[Sandbox 101](https://help.utest.com/sandbox/) - 
 The uTest Sandbox 101 is a program that provides newly registered (or currently unrated) uTesters with the opportunity to evaluate uTest, and likewise an opportunity for uTest to evaluate new uTesters. This involves participating in an unpaid “audition” test cycle that closely mimics a regular, paid uTest test cycle.
 
 Step 3: Further Sharpen Your Skills
