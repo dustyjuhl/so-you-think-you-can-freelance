@@ -222,6 +222,7 @@ Testing shouldn’t be based off of the number of bugs you catch. What matters i
 
 ## [Ubertesters](https://ubertesters.com/)
 ![Ubertesters banner logo](Ubertesters/Ubertesters_banner_logo.png)
+
 What's Ubertesters?
 - Based in Ridgewood, NJ
 - The perfect tool for QA Managers: Track all testing sessions in real-time using the Ubertesters dashboard. Distribute builds to your team members over-the-air. Create distribution groups for A/B testing of your iOS and Android apps. Get a real picture of testers work and review testers’ activity videos. Improve your app based on test-cases execution results, beta testers’ feedbacks, crashes and detailed issues reports. Manage the builds for enhanced security and export the issues to the most popular bug-tracking-systems.
