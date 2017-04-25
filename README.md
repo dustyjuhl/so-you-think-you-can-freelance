@@ -62,7 +62,7 @@ No spark reflects in your work. If you lose your passion and love for your craft
 - TestFairy - https://testfairy.com/
 
 ## [uTest](https://www.utest.com/)
-![uTest square logo](uTest/uTest_logo_GooglePlus_250x250.jpg)
+![uTest square logo](uTest/uTest_Logo_GooglePlus_250x250.jpg)
 - Based in Framingham, MA
 - 250,000+ testers
 - Two options:
@@ -198,8 +198,22 @@ Testing shouldn’t be based off of the number of bugs you catch. What matters i
 - Do you care what tools we use?
 - What is my tester rating based on?
   Your tester rating is based on four factors:
-    1. Bug depth: How critical were the bugs you reported?
-    2. Timeliness: Did you submit the bugs on time?
-    3. Ability to follow directions: Were the bugs you submitted in the scope of the test cycle?
-    4. Report Quality: How clean and readable was your bug report? Could a five-year old reproduce the bug?
+    - Bug depth: How critical were the bugs you reported?
+    - Timeliness: Did you submit the bugs on time?
+    - Ability to follow directions: Were the bugs you submitted in the scope of the test cycle?
+    - Report Quality: How clean and readable was your bug report? Could a five-year old reproduce the bug?
   After the test cycle is over a Test Lead will rate you on these four areas. The higher your score is, the better your chances of being invited to more test cycles.
+
+## Tester Benefits
+- Testlio only works with the top testers in the world. When you join Testlio, you’re going to be working with other amazing testers whom you can learn from and work with.
+- Work on exciting and interesting projects
+- Work with huge brands
+- Work with other top testers and sharpen your skills
+- Testlio rewards testers who are great team players and bring value to the customers
+- Test whenever the time works best for you
+- Pay starts at $10/hr but can increase to over $35/hr
+
+## Resources to Help You Get Started
+- [Intro video](https://vimeo.com/129539889)
+- [How to report bugs effectively](https://testlio.com/blog/kiss-method-for-bug-reporting/)
+- [Expectations of you as a tester](https://testlio.com/blog/the-10-core-values-all-expert-testers-have-in-common/)
