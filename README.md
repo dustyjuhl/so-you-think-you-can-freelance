@@ -62,7 +62,7 @@ No spark reflects in your work. If you lose your passion and love for your craft
 - TestFairy - https://testfairy.com/
 
 ## [uTest](https://www.utest.com/)
-![uTest square logo](uTest/uTest_logo.jpg)
+![uTest square logo](uTest/uTest_logo_GooglePlus_250x250.jpg)
 - Based in Framingham, MA
 - 250,000+ testers
 - Two options:
@@ -175,7 +175,7 @@ Gold/Silver/Bronze testers receive higher payout rates than other members of the
 - [Course Tracks](https://www.utest.com/course-track)
 
 ## [Testlio](https://testlio.com/)
-![Testlio logo](Testlio/testlio_logo_250x250.png)
+![Testlio logo](Testlio/og-image.png)
 [What's Testlio?](https://testlio.com/for-testers/)
 - Testlio is based in San Francisco, CA and Tallinn, Estonia
 - Testlio is a community of testers that help companies make sure their products work.
@@ -186,3 +186,20 @@ Testing shouldn’t be based off of the number of bugs you catch. What matters i
 1. Get verified - Each tester goes through our verification process to make sure our community is made up of expert testers.
 2. Crush bugs - Once you’ve been verified, you will be invited to a project you can work on around your own schedule.
 3. Get paid - Make up to $35/hr for doing what you love. After each test cycle you will receive payment for the hours you’ve been assigned to test.
+
+## [Tester FAQ](https://platform.testlio.com/tester-faq)
+- What is Testlio?
+- Why is this better?
+- How do I get started/invited to a project?
+- How much do I get paid?
+- What's it like being a tester?
+- How do the hours work?
+- How do I get paid?
+- Do you care what tools we use?
+- What is my tester rating based on?
+  Your tester rating is based on four factors:
+    1. Bug depth: How critical were the bugs you reported?
+    2. Timeliness: Did you submit the bugs on time?
+    3. Ability to follow directions: Were the bugs you submitted in the scope of the test cycle?
+    4. Report Quality: How clean and readable was your bug report? Could a five-year old reproduce the bug?
+  After the test cycle is over a Test Lead will rate you on these four areas. The higher your score is, the better your chances of being invited to more test cycles.
