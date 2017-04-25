@@ -229,6 +229,26 @@ What's Ubertesters?
 - An easy way to get paid for testing: If you’re a skilled and talented QA professional who is excited about testing new products and reporting their flaws you should become a part of the Ubertesters community of testers. Receive new products for real life testing using your own device from the comfort of your own home. Report bugs with edited screenshots and video sessions recording directly from the tested app. Become part of their freelance software tester community and get paid for your efforts.
 - The best platform to gather the beta testing team: Thousands of inquisitive minds are ready to look at your product and test it on any real device used by your clients. Transparent flat rates for all types of projects, no matter if you require exploratory testing or test cases execution. Create a scalable beta team by request including an experienced assigned project manager. No testers limits per task, apps type, location or project. Review results of your tester’s activity and communicate with us 24/7 for better time-to-market of a quality product.
 
+## [Ubertesters for Enterprise App Testing](https://ubertesters.com/enterprise-app-testing/)
+Trusted by some of the smartest companies:
+- Verizon
+- T-Mobile
+- Intuit
+- houzz
+- The GOLF Channel
+
+...and many others
+
+[Hire Testers](https://ubertesters.com/need-testers/)
+- Test your app globally – with experienced testers, on all types of real devices, under real-world conditions.
+  - Professional Ubertesters on demand in 80+ countries!
+- What do you get when hiring testers with Ubertesters?
+  - Full access to the Ubertesters platform included ($129)
+  - Personal Project Manager
+  - Real-time activity monitoring
+  - Functional, localization, exploratory, and usability testing
+  - Multitudes of real devices
+
 ## [Join the Uber League of Testers!](https://ubertesters.com/become-tester/)
 Become an Ubertester, earn money, and test pre-released amazing mobile apps and exciting games from the leading mobile developers around the world, and all in your spare time.
 
@@ -244,3 +264,5 @@ Become an Ubertester, earn money, and test pre-released amazing mobile apps and 
 Managing your mobile testing has never been easier.
 - Platform – Simplify your software beta testing activity, monitor and manage all processes and your teams in real time, using our award winning QA management tool.
 - Crowdtesters - Test your app globally with experienced professional testers, on all types of real devices, platforms, locations, and carriers to ensure it is well-tested.
+
+## [TestFairy](https://testfairy.com/)
