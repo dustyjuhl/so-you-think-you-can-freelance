@@ -62,6 +62,7 @@ No spark reflects in your work. If you lose your passion and love for your craft
 - TestFairy - https://testfairy.com/
 
 ## [uTest](https://www.utest.com/)
+![uTest square logo](uTest/uTest_logo.jpg)
 - Based in Framingham, MA
 - 250,000+ testers
 - Two options:
@@ -172,3 +173,16 @@ Gold/Silver/Bronze testers receive higher payout rates than other members of the
 - [Software Testing Forums](https://www.utest.com/forums)
 - [Software Testing Courses](https://www.utest.com/courses)
 - [Course Tracks](https://www.utest.com/course-track)
+
+## [Testlio](https://testlio.com/)
+![Testlio logo](Testlio/testlio_logo_250x250.png)
+[What's Testlio?](https://testlio.com/for-testers/)
+- Testlio is based in San Francisco, CA and Tallinn, Estonia
+- Testlio is a community of testers that help companies make sure their products work.
+- Testlio emphasizes that Quality matters.
+
+Testing shouldn’t be based off of the number of bugs you catch. What matters is the impact you have on the end product. Testlio values the quality of the bugs you find, rather than the quantity.
+
+1. Get verified - Each tester goes through our verification process to make sure our community is made up of expert testers.
+2. Crush bugs - Once you’ve been verified, you will be invited to a project you can work on around your own schedule.
+3. Get paid - Make up to $35/hr for doing what you love. After each test cycle you will receive payment for the hours you’ve been assigned to test.
