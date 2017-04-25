@@ -152,3 +152,23 @@ All testers are rated against other active members of the community based on the
 Gold/Silver/Bronze testers receive higher payout rates than other members of the testing community: Gold testers receive a 10% premium on all approved reports, while Silver and Bronze testers receive a 5% and 2.5% premium, respectively. Payout increases are determined by the rating that applies to the test cycle's testing type.
 
 ![Tester Ratings](uTest/Tester_Ratings.jpg)
+
+## Additional Resources
+- [uTest Help Courses](https://help.utest.com/)
+- [Rules of Engagement](https://www.utest.com/rules-of-engagement)
+- [Getting Started with uTest Paid Projects](https://www.utest.com/courses/getting-started)
+  - [uTest 101 Quiz](http://surveys.utest.com/surveys/utmr/utest-101-quiz-2015/?collector=182248)
+  - [Sandbox 101](https://help.utest.com/sandbox/)
+- [Earning Money](https://www.utest.com/earning-money)
+- [How do payments work at uTest?](https://www.utest.com/courses/payments)
+- [When am I paid?](https://help.utest.com/when-am-i-paid/)
+- [Do I need to submit a W-9?](https://help.utest.com/need-submit-w-9/)
+- [Software Testing Paid Projects](https://www.utest.com/projects?tab=all)
+- [Submitting Bug Reports at uTest](https://www.utest.com/courses/participation-submitting-bug-reports)
+- [How to Write a Quality Bug Report](https://www.utest.com/courses/writing-quality-bug-reports-and-utest-etiquette)
+- [Best practices for uTest attachments](https://www.utest.com/articles/best-practices-for-utest-attachments)
+- [uTest Tester Ratings](https://www.utest.com/courses/utest-tester-ratings)
+- [uTest Blog](https://www.utest.com/utest-blog)
+- [Software Testing Forums](https://www.utest.com/forums)
+- [Software Testing Courses](https://www.utest.com/courses)
+- [Course Tracks](https://www.utest.com/course-track)
