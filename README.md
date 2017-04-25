@@ -219,3 +219,27 @@ Testing shouldn’t be based off of the number of bugs you catch. What matters i
 - [Intro video](https://vimeo.com/129539889)
 - [How to report bugs effectively](https://testlio.com/blog/kiss-method-for-bug-reporting/)
 - [Expectations of you as a tester](https://testlio.com/blog/the-10-core-values-all-expert-testers-have-in-common/)
+
+## [Ubertesters](https://ubertesters.com/)
+![Ubertesters banner logo](Ubertesters/Ubertesters_banner_logo.png)
+What's Ubertesters?
+- Based in Ridgewood, NJ
+- The perfect tool for QA Managers: Track all testing sessions in real-time using the Ubertesters dashboard. Distribute builds to your team members over-the-air. Create distribution groups for A/B testing of your iOS and Android apps. Get a real picture of testers work and review testers’ activity videos. Improve your app based on test-cases execution results, beta testers’ feedbacks, crashes and detailed issues reports. Manage the builds for enhanced security and export the issues to the most popular bug-tracking-systems.
+- An easy way to get paid for testing: If you’re a skilled and talented QA professional who is excited about testing new products and reporting their flaws you should become a part of the Ubertesters community of testers. Receive new products for real life testing using your own device from the comfort of your own home. Report bugs with edited screenshots and video sessions recording directly from the tested app. Become part of their freelance software tester community and get paid for your efforts.
+- The best platform to gather the beta testing team: Thousands of inquisitive minds are ready to look at your product and test it on any real device used by your clients. Transparent flat rates for all types of projects, no matter if you require exploratory testing or test cases execution. Create a scalable beta team by request including an experienced assigned project manager. No testers limits per task, apps type, location or project. Review results of your tester’s activity and communicate with us 24/7 for better time-to-market of a quality product.
+
+## [Join the Uber League of Testers!](https://ubertesters.com/become-tester/)
+Become an Ubertester, earn money, and test pre-released amazing mobile apps and exciting games from the leading mobile developers around the world, and all in your spare time.
+
+- Amazing projects from global brands
+- Career opportunity - work hard and become a team-lead with your own team
+- Get paid for the time spent on testing - every hours counts
+- Flexible schedule - test apps in your spare time
+
+1. Complete a short form - Tell us about yourself and your technical skills
+2. Get certified - One of our managers will contact you shortly to complete the certification process
+3. Test apps & earn money - Be the first who tests amazing apps from global brands. Do it in your spare time and earn money.
+
+Managing your mobile testing has never been easier.
+- Platform – Simplify your software beta testing activity, monitor and manage all processes and your teams in real time, using our award winning QA management tool.
+- Crowdtesters - Test your app globally with experienced professional testers, on all types of real devices, platforms, locations, and carriers to ensure it is well-tested.
