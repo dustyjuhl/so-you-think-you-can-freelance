@@ -269,7 +269,7 @@ Managing your mobile testing has never been easier.
 - Based in Tel Aviv, Israel
 - Test Fairy is more of a platform, and less of a crowd-testing options
 
-Android & iOS Mobile Beta Testing Has Never Been Easier.
+Android & iOS Mobile Beta Testing Has Never Been Easier.
 
 When testing mobile apps in the crowd, you never know what exactly was done and if there was a problem, what exactly went wrong on the client side. TestFairy solves this problem by providing you a video of the exact test that was done, including CPU, Memory, GPS, Network and a lot more.
 
