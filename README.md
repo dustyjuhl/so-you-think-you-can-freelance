@@ -122,7 +122,7 @@ Step 2: Show us Your Skills
 
 uTest invites testers to an audition -- called the uTest Sandbox -- so they can see how projects work, understand the uTest platform, and show off their skills.
 
-[Sandbox 101](https://help.utest.com/sandbox/) - 
+[Sandbox 101](https://help.utest.com/sandbox/) -
 The uTest Sandbox 101 is a program that provides newly registered (or currently unrated) uTesters with the opportunity to evaluate uTest, and likewise an opportunity for uTest to evaluate new uTesters. This involves participating in an unpaid “audition” test cycle that closely mimics a regular, paid uTest test cycle.
 
 Step 3: Further Sharpen Your Skills
@@ -266,3 +266,11 @@ Managing your mobile testing has never been easier.
 - Crowdtesters - Test your app globally with experienced professional testers, on all types of real devices, platforms, locations, and carriers to ensure it is well-tested.
 
 ## [TestFairy](https://testfairy.com/)
+- Based in Tel Aviv, Israel
+- Test Fairy is more of a platform, and less of a crowd-testing options
+
+Android & iOS Mobile Beta TestingHas Never Been Easier.
+
+When testing mobile apps in the crowd, you never know what exactly was done and if there was a problem, what exactly went wrong on the client side. TestFairy solves this problem by providing you a video of the exact test that was done, including CPU, Memory, GPS, Network and a lot more.
+
+[Demo video](https://www.youtube.com/watch?v=uqWBPEtSPIM)
