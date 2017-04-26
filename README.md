@@ -267,7 +267,7 @@ Managing your mobile testing has never been easier.
 
 ## [TestFairy](https://testfairy.com/)
 - Based in Tel Aviv, Israel
-- Test Fairy is more of a platform, and less of a crowd-testing options
+- Test Fairy is more of a platform, and less of a crowd-testing option
 
 Android & iOS Mobile Beta Testing Has Never Been Easier.
 
