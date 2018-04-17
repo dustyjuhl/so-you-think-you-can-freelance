@@ -2,7 +2,7 @@
 
 ![Home Office](floatmonitors_picture.jpg)
 
-[Presentation Slides](https://slides.com/ryandoll/troubleshoot-like-a-boss)
+[Presentation Slides](https://docs.google.com/presentation/d/1H9c5DuTNQ4E6Eaaqh569x-lmDUj-7sS9NkGHeWLqXRw/edit?usp=sharing)
 
 ## Overview
 
